@@ -1,0 +1,26 @@
+{
+    "productListHome": [
+        {
+          "id": 1,
+          "name": "Cake 'Carrot'",
+          "description": "Flour, baking soda, salt, sugar, vanilla, carrots, eggs,  cinnamon.",
+          "price": 200,
+          "image":"https://www.pngkey.com/png/full/84-845460_patisserie-valerie-carrot-cake.png"
+        },
+      
+        {
+          "id": 3,
+          "name": "Cake 'Apple'",
+          "description": "Flour, baking soda, salt, sugar, vanilla, apples, eggs,  cinnamon.",
+          "price": 350,
+          "image":"https://thecakesolution.co.uk/wp-content/uploads/2021/03/Full_Continental_Apple-1.png"
+        },
+         {
+          "id": 4,
+          "name": "Cake 'Nut'",
+          "description": "Flour, baking soda, salt, sugar, vanilla, nuts, eggs, cream,  cinnamon.",
+          "price": 250,
+          "image":"https://images.squarespace-cdn.com/content/v1/538500e4e4b0fa9e95efc7b9/1578468654154-SIR776R3SU6V5IULU17Y/Vegan+Carrot+Cake+slice.png?format=1000w"
+        }
+      ]
+    }

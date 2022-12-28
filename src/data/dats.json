@@ -1,0 +1,102 @@
+{
+  "productList": [
+      {
+        "id": 1,
+        "name": "Bluberry",
+        "description":"Flour, baking soda, salt, sugar, vanilla, bluberry, eggs, cinnamon.",
+        "price": 200,
+        "image":"https://amagicalmess.com/wp-content/uploads/2019/02/far-out-space-cupcakes-recipes-480x480.jpg",
+        "assortment":"Cupcake"
+
+      },
+    
+      {
+        "id": 2,
+        "name": "Strawberry",
+        "description":"Flour, baking soda, salt, sugar, vanilla, strawberry, eggs, cinnamon.",
+        "price": 350,
+        "image":"https://www.yourcupofcake.com/wp-content/uploads/2012/03/Pink-Confetti.jpg",
+        "assortment":"Cupcake"
+      },
+       {
+        "id": 3,
+        "name": "Chocolate",
+        "description":"Flour, baking soda, salt, sugar, vanilla, chocolate, eggs, cinnamon.",
+        "price": 150,
+        "image":"https://inbloombakery.com/wp-content/uploads/2021/09/Chocolate-Cupcakes-New-22.jpg",
+        "assortment":"Cupcake"
+      },
+      {
+        "id": 4,
+        "name": "White Velvet Party",
+        "description":"Get a little nostalgic as you savor the flavor of sweet vanilla with chunks of funfetti cake and colorful sprinkles!",
+        "price": 220,
+        "image":"https://www.sugarmoo.com/media/catalog/product/w/e/website_l_white_velvet_party_.jpg",
+        "assortment":"Ice cream"
+      },
+      {
+        "id": 5,
+        "name": "NKD Strawberry",
+        "description":"For the strawberry shortcake lovers, we’ve create a flavor jam packed with strawberry swirls and chunks of our delicious vanilla cake!",
+        "price": 220,
+        "image":"https://www.sugarmoo.com/media/catalog/product/w/e/website_l_nkd_strawberry_.jpg",
+        "assortment":"Ice cream"
+      },
+      {
+        "id": 6,
+        "name": "Pistach-yo!",
+        "description":"The Hulk is not the only thing that’s green and incredible. Trust us, you’ll want multiple tubs of pistach-yo!",
+        "price": 220,
+        "image":"https://www.sugarmoo.com/media/catalog/product/w/e/website_l_pistach-yo_.jpg",
+        "assortment":"Ice cream"
+      },
+      {
+        "id": 7,
+        "name": "Reese's Peanut Butter",
+        "description":"A melt in your mouth cookie dough mixed with white and milk chocolate chunks, topped with a Reese’s peanut butter cup. Sold as one. ",
+        "price": 110,
+        "image":"https://www.sugarmoo.com/media/catalog/product/s/u/sugarmoo-november-7175_1.jpg",
+        "assortment":"Cookie"
+      },
+      {
+        "id": 8,
+        "name": "Chewy Chocolate Melts",
+        "description":"Delicately crunchy on the outside and soft and chewy from the inside, these cookies will literally melt in your mouth.",
+        "price": 110,
+        "image":"https://www.sugarmoo.com/media/catalog/product/s/u/sugarmoo-november-7166_1.jpg",
+        "assortment":"Cookie"
+      },
+      {
+        "id": 9,
+        "name": "Oreo Secret",
+        "description":"Our Red Velvet Secret with Oreo is chewy on the outside and with an Oreo crunch on the inside.",
+        "price": 110,
+        "image":"https://www.sugarmoo.com/media/catalog/product/r/e/red_velvert_secret_oreo.jpg",
+        "assortment":"Cookie"
+      },
+      {
+        "id": 10,
+        "name": "Naked Strawberry!",
+        "description":"An absolutely delicious and beautifully rustic, fluffy vanilla cake filled with vanilla cream. ",
+        "price": 532,
+        "image":"https://www.sugarmoo.com/media/catalog/product/n/a/naked_strawberry2.jpg",
+        "assortment":"Cake"
+      },
+      {
+        "id": 11,
+        "name": "Honeylicious",
+        "description":"Four fluffy honey cake layers and filled with honey mousse and Dulce de Leche sauce. ",
+        "price": 476,
+        "image":"https://www.sugarmoo.com/media/catalog/product/4/a/4ac172a1-28a6-414e-96b3-afdb0771332d.png",
+        "assortment":"Cake"
+      },
+      {
+        "id": 12,
+        "name": "Bluberry Cheesecake",
+        "description":"A silky smooth and creamy New York style cheesecake topped with fresh blueberrie.",
+        "price": 587,
+        "image":"https://www.sugarmoo.com/media/catalog/product/b/l/blueberry_cheesecake_1.jpg",
+        "assortment":"Cake"
+      }
+    ]
+  }
